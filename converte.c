@@ -13,6 +13,5 @@ int main() {
                 printf("%c",str[i]);
         }
     }
-    printf("Adeus!\n");
     return 0;
 }
